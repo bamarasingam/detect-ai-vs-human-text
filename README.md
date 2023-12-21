@@ -1,5 +1,5 @@
 ### Executive Summary
-Human’s are complex creatures. We all have our own dialect, and way we string words togethers when we communicate with each other. A question or answer will vary depending on who’s outputting it, even though they may all carry the same message. The introduction of AI has allowed for a new entrant into this space, with AI having that same capability of stringing words together in it’s own form. 
+Human’s are complex creatures. We all have our own dialect, and way in which we string words togethers when we communicate with each other. A question or answer will vary depending on who’s outputting it, even though they may all carry the same message. The introduction of AI has allowed for a new entrant into this space, with AI having that same capability of stringing words together in it’s own form. 
 
 With so much of our world held within the digital space, you can never know who is on the other end of your communication point. You can be talking to someone, and not know whether it is a human or AI generated responses. Such can be a big problem when it comes to certain fields/spaces, as there will be users who will use bots to return AI generated responses and abuse whatever application/program they’re using, or human they are talking too. 
 
