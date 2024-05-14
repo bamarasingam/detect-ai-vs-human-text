@@ -1,3 +1,6 @@
+### Medium Article
+https://bamarasingam.medium.com/using-ai-to-detect-between-bot-vs-human-generated-responses-96b5e03ae188
+
 ### Executive Summary
 Human’s are complex creatures. We all have our own dialect, and way in which we string words together when we communicate with each other. A question or answer will vary depending on who’s outputting it, even though they may all carry the same message. The introduction of AI has allowed for a new entrant into this space, with AI having that same capability of stringing words together in it’s own form. 
 
